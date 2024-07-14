@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+/* src/index.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
